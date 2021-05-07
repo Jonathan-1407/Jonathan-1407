@@ -1,16 +1,16 @@
-[![Header](https://i.ibb.co/cYSMC4f/BAKS-Clothing-Co-1.png)]()
+<img src="https://i.ibb.co/cYSMC4f/BAKS-Clothing-Co-1.png" alt="Kitten" title="A cute kitten" width="100%" />
 
 [![adamalston.com](https://img.shields.io/badge/-Portfolio-e96f94?style=for-the-badge&logoColor=white)](https://portfolioj.herokuapp.com/)
 
-**Languages I have used**
-
 <p>
+  
   <img align="left" width="490" height="200" src="https://github-readme-stats.vercel.app/api?username=Jonathan-1407&show_icons=true&include_all_commits=true&hide_border=false&line_height=20&title_color=e96f94&icon_color=55628c&show_owner=true"/>
  
   <p>
+    <b>Languages I have used</b>
+    <br/>
     <img src="https://img.shields.io/badge/-Visual Basic-23A9F2?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-
-    C++-6295cb?style=flat-square&logo=C%2B%2B&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C%2B%2B-6295cb?style=flat-square&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Golang-67d0de?style=flat-square&logo=Go&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Dart-2bb1ee?style=flat-square&logo=dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-326994?style=flat-square&logo=Python&logoColor=white"/>
@@ -24,9 +24,9 @@
 </p>
 <p>
 
-**Frameworks I have used**
-
 <p>
+    <b>Frameworks I have used</b>
+    <br/>
     <img src="https://img.shields.io/badge/-VueJS-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ReactJS-48cef7?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/-SvelteJS-f73c00?style=flat-square&logo=Svelte&logoColor=white"/>
@@ -40,6 +40,8 @@
 </p>
 
 <p>
+
+<br/>
 
 **Some of the technologies I have worked with**
 
