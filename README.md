@@ -54,6 +54,8 @@
      <img src="https://img.shields.io/badge/-Gnu/Linux-000000?style=flat-square&logo=Linux&logoColor=white"/>
      <img src="https://img.shields.io/badge/-AWS-232e3f?style=flat-square&logo=Amazon&logoColor=white"/>
      <img src="https://img.shields.io/badge/-Heroku-410093?style=flat-square&logo=Heroku&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-Insomnia-5c00d2?style=flat-square&logo=Insomnia&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=Postman&logoColor=white"/>
 </p>
 
 <br>
