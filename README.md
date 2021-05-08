@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/cYSMC4f/BAKS-Clothing-Co-1.png" alt="Kitten" title="A cute kitten" width="100%" />
+<img src="https://i.ibb.co/XXHj6rT/jonathan-banner.jpg" alt="Header Banner" title="Jonathan Cua" width="100%" />
 
 [![adamalston.com](https://img.shields.io/badge/-Portfolio-e96f94?style=for-the-badge&logoColor=white)](https://portfolioj.herokuapp.com/)
 
