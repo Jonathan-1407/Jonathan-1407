@@ -34,8 +34,6 @@
     <img src="https://img.shields.io/badge/-Lumen-de4335?style=flat-square&logo=Lumen&logoColor=white"/>
     <img src="https://img.shields.io/badge/-DJango-092d1f?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Jest-944058?style=flat-square&logo=Jest&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NodeJS-6aa05c?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
 
@@ -49,11 +47,13 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
      <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white"/>
      <img src="https://img.shields.io/badge/-Gitlab-898c97?style=flat-square&logo=Gitlab&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-Jest-944058?style=flat-square&logo=Jest&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
      <img src="https://img.shields.io/badge/-Docker-0997e5?style=flat-square&logo=Docker&logoColor=white"/>
      <img src="https://img.shields.io/badge/-NeoVim-1667a3?style=flat-square&logo=Neovim&logoColor=white"/>
      <img src="https://img.shields.io/badge/-Gnu/Linux-000000?style=flat-square&logo=Linux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-AWS-232e3f?style=flat-square&logo=Amazon&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Heroku-410093?style=flat-square&logo=Heroku&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-AWS-232e3f?style=flat-square&logo=Amazon&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-Heroku-410093?style=flat-square&logo=Heroku&logoColor=white"/>
 </p>
 
 <br>
