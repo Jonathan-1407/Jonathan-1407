@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/XXHj6rT/jonathan-banner.jpg" alt="Header Banner" title="Jonathan Cua"/>
 
-[![adamalston.com](https://img.shields.io/badge/-Portfolio-e96f94?style=for-the-badge&logoColor=white)](https://portfolioj.herokuapp.com/)
+[![adamalston.com](https://img.shields.io/badge/-Portfolio-e96f94?style=for-the-badge&logoColor=white)](https://jonathan-cua.herokuapp.com)
 
 <p>
   
